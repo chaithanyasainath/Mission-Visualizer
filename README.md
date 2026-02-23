@@ -1,5 +1,5 @@
 Project Title
-Mission Visualizer
+: Mission Visualizer
 
 How to Run ->
 
