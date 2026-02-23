@@ -3,8 +3,9 @@ Project Title
 
 How to Run ->
 
-npm install
-npm start
+Open terminal and type
+1st.npm install, 
+2nd.npm start
 
 Runs at http://localhost:3000
 
